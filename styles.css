@@ -1,11 +1,15 @@
+body{
+    background-color: tan ;
+    margin: 8px;
+    display: inline-block;
+    
+}
+
 p {
     margin: 50px;
     padding: 5px;
 }
 
-body{
-    margin: 8px;
-}
 
 h1{
     text-align: center;
@@ -29,4 +33,20 @@ figcaption{
 
 #mainHeading{
     color:darkred
+}
+
+.funParagraph{
+    color: green;
+    background-color: black;
+    
+}
+
+.dark{
+    background-color: black;
+    color: whitesmoke
+}
+
+.light{
+    background-color: darkred;
+    color: whitesmoke
 }
